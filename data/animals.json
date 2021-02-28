@@ -135,6 +135,26 @@
         "hungry"
       ],
       "id": "13"
+    },
+    {
+      "name": "George",
+      "species": "Moneky",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "Sally",
+      "species": "Elephant",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "loving",
+        "goofy"
+      ],
+      "id": "15"
     }
   ]
 }
